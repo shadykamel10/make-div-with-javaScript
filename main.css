@@ -1,0 +1,24 @@
+   
+
+input {
+    display: block;
+    padding: 10px;
+    border-radius: 20px;
+    outline: none;
+    margin-left: 500px;
+    margin-top: 10px;
+
+}
+select {
+    margin-left: 500px;
+    padding: 10px;
+    width: 15%;
+    margin-top: 10px;
+    border-radius: 20px;
+   
+}
+.create {
+width: 180px;
+background-color: aqua;
+
+}
